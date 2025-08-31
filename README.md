@@ -1,6 +1,6 @@
 # Arduino TCP Memory Exchange
 
-![Preview](https://github.com/elModo7/ArduinoUnoR4Wifi_TCP_Memory_Viewer/blob/main/img/preview.gif?raw=true)
+![Preview](https://github.com/elModo7/ArduinoUnoR4Wifi_TCP_Memory_Viewer/blob/main/img/preview.jpg?raw=true)
 
 Basic example of an Arduino Uno R4 WiFi receiving a number via TCP and displaying it on the built-in led matrix. The backend reads one address from a process's memory and sends it via the opened TCP socket to the arduino client. 
 
